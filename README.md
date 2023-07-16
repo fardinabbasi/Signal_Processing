@@ -21,4 +21,8 @@ $y[n] = x[n] + \alpha x[n-n_0]$
 
 For a desired 1-second delay, we set the **delay parameter** as $n_0 = F_s = 44100$, and the **attenuation factor** as $\alpha = 0.9$, ensuring that the **echo signal** retains 81% of the **energy** present in the original signal.
 
+Below is a plot showing the echo signal.
 
+<img src="/readme_images/y.jpg" >
+
+### Adding Noise
