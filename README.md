@@ -38,4 +38,4 @@ Below is a plot showing the noisy signal.
 - **Semester**: Spring 2022
 - **Institution:** [School of Electrical & Computer Engineering](https://ece.ut.ac.ir/en/), [College of Engineering](https://eng.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en)
 - **Instructor:** Dr. Akhavan
-
+- **Contributors:** [Fardin Abbasi](https://github.com/fardinabbasi), Iman Rasouli-Parto, Parsa Sattari
